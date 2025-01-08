@@ -1,0 +1,185 @@
+# Program G2: Building AI Agents and LLM Applications
+
+## Objectives 
+Our goal is to teach students how to effectively build, deploy, and evaluate AI agents using various LLM APIs. Here's what we'll focus on:
+1. Understanding different LLM APIs and their capabilities
+2. Learning best practices for prompt engineering and agent design
+3. Building practical applications with AI agents
+4. Evaluating and improving agent performance
+
+---
+
+## 1. Background & Program Overview
+
+**Program Overview**  
+- **Total Lessons:** 24  
+- **Session Duration:** 1 hour per session  
+- **Meeting Frequency:** Weekly check-ins with mentors via Zoom  
+- **Program Duration:** Approximately 6 months  
+- **Class Size:** One teacher per eight students (1:8 ratio)  
+
+**Program Structure**  
+Program G2 combines theoretical understanding with hands-on practice using various LLM APIs. Students will learn through interactive notebooks, real-world projects, and practical implementations using platforms like Google AI Studio and Gradio.
+
+---
+
+## Detailed Lessons
+
+### Module 1: Foundations of LLMs and AI Agents (Lessons 1-4)
+
+#### Lesson 1: Introduction to LLMs and AI Agents
+- **Objectives:** Understand LLM basics, types, and applications
+- **Activities:** Overview of different LLMs (GPT, Claude, PaLM, etc.)
+- **Mini-Project:** Create simple prompts using Google AI Studio
+
+#### Lesson 2: Understanding API Interfaces
+- **Objectives:** Learn API basics, authentication, rate limits
+- **Activities:** Set up API access for OpenAI, Anthropic, Google
+- **Mini-Project:** Build a basic chatbot using OpenAI's API
+
+#### Lesson 3: Prompt Engineering Fundamentals
+- **Objectives:** Learn effective prompt design principles
+- **Activities:** Practice different prompting techniques
+- **Mini-Project:** Compare responses across different LLMs
+
+#### Lesson 4: Introduction to Gradio
+- **Objectives:** Learn Gradio basics for AI interfaces
+- **Activities:** Build simple Gradio demos
+- **Mini-Project:** Create a basic LLM interface with Gradio
+
+### Module 2: Advanced Prompting and Agent Design (Lessons 5-8)
+
+#### Lesson 5: Chain-of-Thought Prompting
+- **Objectives:** Master chain-of-thought and reasoning techniques
+- **Activities:** Implement step-by-step reasoning in prompts
+- **Mini-Project:** Build a math problem solver using CoT
+
+#### Lesson 6: Few-Shot Learning and Prompting
+- **Objectives:** Understand few-shot learning techniques
+- **Activities:** Design effective few-shot prompts
+- **Mini-Project:** Create a sentiment analyzer using few-shot examples
+
+#### Lesson 7: System Prompts and Agent Personalities
+- **Objectives:** Design effective system prompts
+- **Activities:** Create different agent personalities
+- **Mini-Project:** Build specialized agents for different tasks
+
+#### Lesson 8: Context Window Management
+- **Objectives:** Learn to manage context effectively
+- **Activities:** Practice context window optimization
+- **Mini-Project:** Build a document Q&A system
+
+### Module 3: Building AI Applications (Lessons 9-12)
+
+#### Lesson 9: Text Generation Applications
+- **Objectives:** Build text generation systems
+- **Activities:** Implement various text generation use cases
+- **Mini-Project:** Create a story generation application
+
+#### Lesson 10: Conversational Agents
+- **Objectives:** Design effective chatbots
+- **Activities:** Implement conversation management
+- **Mini-Project:** Build a customer service chatbot
+
+#### Lesson 11: Code Generation and Analysis
+- **Objectives:** Use LLMs for code-related tasks
+- **Activities:** Implement code generation and review
+- **Mini-Project:** Build a code explanation system
+
+#### Lesson 12: Document Analysis and QA
+- **Objectives:** Build document analysis systems
+- **Activities:** Implement document QA
+- **Mini-Project:** Create a PDF analysis tool
+
+### Module 4: Advanced Agent Capabilities (Lessons 13-16)
+
+#### Lesson 13: Function Calling and Tool Use
+- **Objectives:** Implement function calling with LLMs
+- **Activities:** Create tools for agents to use
+- **Mini-Project:** Build a weather-aware assistant
+
+#### Lesson 14: Multi-Agent Systems
+- **Objectives:** Design systems with multiple agents
+- **Activities:** Implement agent collaboration
+- **Mini-Project:** Create a debate system with multiple agents
+
+#### Lesson 15: Memory and State Management
+- **Objectives:** Implement agent memory systems
+- **Activities:** Design different memory architectures
+- **Mini-Project:** Build a personal assistant with memory
+
+#### Lesson 16: Error Handling and Safety
+- **Objectives:** Implement robust error handling
+- **Activities:** Practice safety measures
+- **Mini-Project:** Build a content moderation system
+
+### Module 5: Evaluation and Optimization (Lessons 17-20)
+
+#### Lesson 17: Agent Evaluation Methods
+- **Objectives:** Learn evaluation techniques
+- **Activities:** Implement evaluation metrics
+- **Mini-Project:** Create an agent evaluation framework
+
+#### Lesson 18: Cost Optimization
+- **Objectives:** Optimize API usage and costs
+- **Activities:** Implement caching and optimization
+- **Mini-Project:** Build a cost-efficient system
+
+#### Lesson 19: Performance Monitoring
+- **Objectives:** Implement monitoring systems
+- **Activities:** Create monitoring dashboards
+- **Mini-Project:** Build a performance tracking system
+
+#### Lesson 20: A/B Testing Agents
+- **Objectives:** Learn A/B testing for agents
+- **Activities:** Design and run A/B tests
+- **Mini-Project:** Compare different agent designs
+
+### Module 6: Deployment and Final Project (Lessons 21-24)
+
+#### Lesson 21: Deployment Strategies
+- **Objectives:** Learn deployment options
+- **Activities:** Practice deployment methods
+- **Mini-Project:** Deploy an agent to production
+
+#### Lesson 22: Final Project Planning
+- **Objectives:** Plan comprehensive agent system
+- **Activities:** Project planning and design
+- **Mini-Project:** Create project proposal
+
+#### Lesson 23: Final Project Development
+- **Objectives:** Build final project
+- **Activities:** Implementation and testing
+- **Mini-Project:** Complete project implementation
+
+#### Lesson 24: Final Project Presentation
+- **Objectives:** Present and evaluate projects
+- **Activities:** Project demonstrations
+- **Mini-Project:** Final presentation and documentation
+
+---
+
+## Tools and Platforms Used
+- **Development Environments:** Google AI Studio, Jupyter Notebooks
+- **UI Frameworks:** Gradio, Streamlit
+- **LLM APIs:** 
+  - OpenAI (GPT-3.5, GPT-4)
+  - Anthropic (Claude)
+  - Google (PaLM, Gemini)
+  - Meta (Llama)
+  - Alibaba (Qwen)
+  - DeepSeek
+  - Gamma
+- **Version Control:** GitHub
+- **Deployment:** Hugging Face Spaces, Cloud Platforms
+- **Monitoring:** Weights & Biases, TensorBoard
+
+---
+
+## Learning Outcomes
+By the end of this program, students will be able to:
+1. Design and implement effective AI agents using various LLM APIs
+2. Create robust and safe AI applications
+3. Evaluate and optimize agent performance
+4. Deploy and monitor AI systems in production
+5. Understand the strengths and limitations of different LLMs
