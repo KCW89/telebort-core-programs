@@ -1,11 +1,11 @@
-# Program G2: Building AI Agents and LLM Applications
+# Program G2: AI Agents for Cybersecurity
 
 ## Objectives 
-Our goal is to teach students how to effectively build, deploy, and evaluate AI agents using various LLM APIs. Here's what we'll focus on:
-1. Understanding different LLM APIs and their capabilities
-2. Learning best practices for prompt engineering and agent design
-3. Building practical applications with AI agents
-4. Evaluating and improving agent performance
+Our goal is to teach students how to build and deploy AI agents for cybersecurity applications, combining LLM capabilities with security tools. Here's what we'll focus on:
+1. Understanding how to use LLMs for security analysis
+2. Building AI agents that can assist in security tasks
+3. Implementing secure and robust AI systems
+4. Participating in AI-assisted CTF challenges
 
 ---
 
@@ -25,49 +25,49 @@ Program G2 combines theoretical understanding with hands-on practice using vario
 
 ## Detailed Lessons
 
-### Module 1: Foundations of LLMs and AI Agents (Lessons 1-4)
+### Module 1: Foundations of AI Security (Lessons 1-4)
 
-#### Lesson 1: Introduction to LLMs and AI Agents
-- **Objectives:** Understand LLM basics, types, and applications
-- **Activities:** Overview of different LLMs (GPT, Claude, PaLM, etc.)
-- **Mini-Project:** Create simple prompts using Google AI Studio
+#### Lesson 1: AI in Cybersecurity
+- **Objectives:** Understand intersection of AI and security
+- **Activities:** Overview of AI security applications
+- **Mini-Project:** Analyze security logs using OpenAI's API
 
-#### Lesson 2: Understanding API Interfaces
-- **Objectives:** Learn API basics, authentication, rate limits
-- **Activities:** Set up API access for OpenAI, Anthropic, Google
-- **Mini-Project:** Build a basic chatbot using OpenAI's API
+#### Lesson 2: Security Tools and AI Integration
+- **Objectives:** Learn to combine AI with security tools
+- **Activities:** Set up basic security toolkit with AI assistance
+- **Mini-Project:** Build an AI-powered log analyzer
 
-#### Lesson 3: Prompt Engineering Fundamentals
-- **Objectives:** Learn effective prompt design principles
-- **Activities:** Practice different prompting techniques
-- **Mini-Project:** Compare responses across different LLMs
+#### Lesson 3: LLM Security Fundamentals
+- **Objectives:** Understand LLM security considerations
+- **Activities:** Practice secure prompt design
+- **Mini-Project:** Create a secure chatbot with content filtering
 
-#### Lesson 4: Introduction to Gradio
-- **Objectives:** Learn Gradio basics for AI interfaces
-- **Activities:** Build simple Gradio demos
-- **Mini-Project:** Create a basic LLM interface with Gradio
+#### Lesson 4: CTF Basics with AI
+- **Objectives:** Learn CTF fundamentals with AI assistance
+- **Activities:** Solve basic CTF challenges using AI tools
+- **Mini-Project:** Build an AI agent for basic CTF challenges
 
-### Module 2: Advanced Prompting and Agent Design (Lessons 5-8)
+### Module 2: AI-Assisted Security Analysis (Lessons 5-8)
 
-#### Lesson 5: Chain-of-Thought Prompting
-- **Objectives:** Master chain-of-thought and reasoning techniques
-- **Activities:** Implement step-by-step reasoning in prompts
-- **Mini-Project:** Build a math problem solver using CoT
+#### Lesson 5: Code Analysis with LLMs
+- **Objectives:** Use AI for code security review
+- **Activities:** Analyze vulnerable code samples
+- **Mini-Project:** Build a code security checker
 
-#### Lesson 6: Few-Shot Learning and Prompting
-- **Objectives:** Understand few-shot learning techniques
-- **Activities:** Design effective few-shot prompts
-- **Mini-Project:** Create a sentiment analyzer using few-shot examples
+#### Lesson 6: Network Traffic Analysis
+- **Objectives:** AI-powered network analysis
+- **Activities:** Analyze pcap files with AI assistance
+- **Mini-Project:** Create a network anomaly detector
 
-#### Lesson 7: System Prompts and Agent Personalities
-- **Objectives:** Design effective system prompts
-- **Activities:** Create different agent personalities
-- **Mini-Project:** Build specialized agents for different tasks
+#### Lesson 7: Malware Analysis with AI
+- **Objectives:** Use AI for basic malware detection
+- **Activities:** Analyze malware samples with AI
+- **Mini-Project:** Build a malware classification agent
 
-#### Lesson 8: Context Window Management
-- **Objectives:** Learn to manage context effectively
-- **Activities:** Practice context window optimization
-- **Mini-Project:** Build a document Q&A system
+#### Lesson 8: Web Security Testing
+- **Objectives:** AI-assisted web security testing
+- **Activities:** Test web applications with AI tools
+- **Mini-Project:** Create an automated web security scanner
 
 ### Module 3: Building AI Applications (Lessons 9-12)
 
@@ -160,26 +160,26 @@ Program G2 combines theoretical understanding with hands-on practice using vario
 ---
 
 ## Tools and Platforms Used
-- **Development Environments:** Google AI Studio, Jupyter Notebooks
-- **UI Frameworks:** Gradio, Streamlit
-- **LLM APIs:** 
-  - OpenAI (GPT-3.5, GPT-4)
-  - Anthropic (Claude)
-  - Google (PaLM, Gemini)
-  - Meta (Llama)
-  - Alibaba (Qwen)
-  - DeepSeek
-  - Gamma
-- **Version Control:** GitHub
-- **Deployment:** Hugging Face Spaces, Cloud Platforms
-- **Monitoring:** Weights & Biases, TensorBoard
+- **Security Platforms:**
+  - Google CTF Platform
+  - PicoCTF
+  - HackTheBox
+  - VulnHub
+- **AI Tools:**
+  - OpenAI API
+  - Claude API
+  - Security-focused LLMs
+- **Development Tools:**
+  - Kali Linux
+  - Security testing frameworks
+  - AI development environments
 
 ---
 
 ## Learning Outcomes
 By the end of this program, students will be able to:
-1. Design and implement effective AI agents using various LLM APIs
-2. Create robust and safe AI applications
-3. Evaluate and optimize agent performance
-4. Deploy and monitor AI systems in production
-5. Understand the strengths and limitations of different LLMs
+1. Build AI agents for security analysis
+2. Understand AI security implications
+3. Solve CTF challenges with AI assistance
+4. Create secure AI applications
+5. Combine traditional security tools with AI capabilities

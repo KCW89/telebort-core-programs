@@ -18,11 +18,13 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 - **Class Size:** One teacher per eight students (1:8 ratio)  
 
 **Program Structure**  
-Program F is organized into six modules spanning 24 lessons. Each lesson combines live teaching, interactive activities using Google Colab, real-world data exploration, and mini-project development. The program emphasizes hands-on learning with authentic datasets, AI-assisted guidance, and ethical data interpretation.
+Program F is organized into six modules spanning 24 lessons. Each lesson combines live teaching, interactive activities using Google Colab, exploration of real-world data from [data.gov.my](https://data.gov.my/) and [data.gov.sg](https://data.gov.sg/), and mini-project development. The program emphasizes hands-on learning with authentic datasets, AI-assisted guidance, and ethical data interpretation.
 
 ---
 
 ## Detailed Lessons
+
+### Module 1: Introduction to Databases and SQL Basics (Lessons 1-4)
 
 #### Lesson 1: Introduction to Python & Google Colab
 - **Objectives:** Understand Python basics, importance of data analysis, and navigate Google Colab.
@@ -44,6 +46,8 @@ Program F is organized into six modules spanning 24 lessons. Each lesson combine
 - **Activities:** Demonstrations, loop exercises, quizzes.
 - **Mini-Project:** Create a program that processes a list using for/while loops and control statements.
 
+### Module 2: Advanced SQL and Data Manipulation (Lessons 5-8)
+
 #### Lesson 5: Dictionaries
 - **Objectives:** Learn about dictionaries and nested structures.
 - **Activities:** Live teaching, dictionary exercises.
@@ -60,19 +64,21 @@ Program F is organized into six modules spanning 24 lessons. Each lesson combine
 - **Mini-Project:** Extend previous projects by integrating a package like `random`.
 
 #### Lesson 8: Project 1 – Ice Cream Shop
-- **Objectives:** Apply learned Python basics (print, input, lists, conditionals, loops) to build a functional program.
+- **Objectives:** Apply learned Python basics to build a functional program.
 - **Activities:** Guided project briefing, live coding session, Q&A.
-- **Mini-Project:** Build an Ice Cream Shop simulation that handles orders, uses loops for menu display, and lists/dictionaries for inventory.
+- **Mini-Project:** Build an Ice Cream Shop simulation that handles orders, uses loops for menu display, and uses lists/dictionaries for inventory.
+
+### Module 3: Data Analysis Foundations (Lessons 9-12)
 
 #### Lesson 9: NumPy & Descriptive Statistics
 - **Objectives:** Manipulate arrays and perform statistical analysis.
 - **Activities:** Live NumPy demonstration, exercises, quizzes.
-- **Mini-Project:** Analyze a dataset with NumPy to calculate means, medians, and modes.
+- **Mini-Project:** Analyze a dataset (from [data.gov.my](https://data.gov.my/) or [data.gov.sg](https://data.gov.sg/)) with NumPy to calculate means, medians, and modes.
 
 #### Lesson 10: Data Visualization with Matplotlib
 - **Objectives:** Create visual representations of data.
 - **Activities:** Live plotting session, customization exercises.
-- **Mini-Project:** Visualize weather or similar data with line, bar, and scatter plots.
+- **Mini-Project:** Visualize weather or economic data from [data.gov.my](https://data.gov.my/) or [data.gov.sg](https://data.gov.sg/) using line, bar, and scatter plots.
 
 #### Lesson 11: Exam Result Analysis Project
 - **Objectives:** Apply NumPy and Matplotlib in a practical scenario.
@@ -84,30 +90,34 @@ Program F is organized into six modules spanning 24 lessons. Each lesson combine
 - **Activities:** Live revision, quiz session.
 - **Mini-Project:** N/A (Assessment focused).
 
+### Module 4: Data Handling with Pandas (Lessons 13-16)
+
 #### Lesson 13: Introduction to Data Analysis + Pandas
 - **Objectives:** Understand Pandas for data manipulation.
 - **Activities:** Live Pandas teaching, hands-on exercises.
-- **Mini-Project:** Create a Pandas DataFrame from a real dataset and perform basic exploration.
+- **Mini-Project:** Create a Pandas DataFrame from a real dataset from [data.gov.my](https://data.gov.my/) or [data.gov.sg](https://data.gov.sg/) and perform basic exploration.
 
 #### Lesson 14: Read and Export CSV File + Data Cleaning with Pandas
 - **Objectives:** Work with CSV files, clean data using Pandas.
 - **Activities:** Live demonstration on reading/exporting CSV, cleaning exercises.
-- **Mini-Project:** Load a dataset from data.gov.sg, clean it, and export cleaned data.
+- **Mini-Project:** Load a dataset from [data.gov.sg](https://data.gov.sg/), clean it, and export cleaned data.
 
 #### Lesson 15: Data Manipulation with Pandas
 - **Objectives:** Manipulate data using sort, group, and filter operations.
 - **Activities:** Interactive manipulation exercises, quizzes.
-- **Mini-Project:** Analyze a dataset by sorting, grouping, and filtering to extract insights.
+- **Mini-Project:** Analyze a dataset by sorting, grouping, and filtering to extract insights, using data sourced from government portals.
 
 #### Lesson 16: Data Grouping and Joining with Pandas
 - **Objectives:** Understand advanced grouping and joining operations.
 - **Activities:** Live exercises on grouping/joining, Q&A.
-- **Mini-Project:** Combine multiple datasets from government sources using joins and analyze combined data.
+- **Mini-Project:** Combine multiple datasets from [data.gov.my](https://data.gov.my/) and [data.gov.sg](https://data.gov.sg/) using joins and analyze combined data.
+
+### Module 5: Data Interpretation, Reporting, and Advanced Projects (Lessons 17-20)
 
 #### Lesson 17: Data Interpretation and Report Making
 - **Objectives:** Learn to interpret data and write reports.
 - **Activities:** Discussions on interpretation, report writing workshop.
-- **Mini-Project:** Draft a report based on prior analyses, including visualizations and interpretations.
+- **Mini-Project:** Draft a report based on prior analyses of real-world data, including visualizations and interpretations.
 
 #### Lesson 18: Project 4 – Google Play Store Analysis (Code)
 - **Objectives:** Apply data analysis techniques to app store data.
@@ -117,22 +127,24 @@ Program F is organized into six modules spanning 24 lessons. Each lesson combine
 #### Lesson 19: Project 4 – Google Play Store Analysis (Report)
 - **Objectives:** Prepare a formal report of analysis findings.
 - **Activities:** Report writing guidance, review examples.
-- **Mini-Project:** Create a comprehensive report summarizing the analysis, methodology, results, and insights.
+- **Mini-Project:** Create a comprehensive report summarizing the analysis, methodology, results, and insights from the Google Play Store dataset.
 
 #### Lesson 20: Quiz 2
 - **Objectives:** Assess understanding of Lessons 13-19.
 - **Activities:** Live revision, quiz session.
 - **Mini-Project:** N/A (Assessment focused).
 
+### Module 6: Capstone Project and Graduation (Lessons 21-24)
+
 #### Lesson 21: Final Project (Setup + Data Cleaning + Data Analysis)
 - **Objectives:** Initiate a final comprehensive data analysis project.
 - **Activities:** Project setup guidance, live demonstration of data cleaning and analysis techniques.
-- **Mini-Project:** Start setting up a capstone project using a chosen dataset, performing initial cleaning and exploratory analysis.
+- **Mini-Project:** Start setting up a capstone project using a chosen dataset from [data.gov.my](https://data.gov.my/) or [data.gov.sg](https://data.gov.sg/), performing initial cleaning and exploratory analysis.
 
 #### Lesson 22: Final Project (Report Making + Presentation Preparation)
 - **Objectives:** Develop reporting and presentation skills for data findings.
 - **Activities:** Live briefing on report structure, presentation techniques, templates.
-- **Mini-Project:** Draft a final project report and prepare a presentation outline.
+- **Mini-Project:** Draft a final project report and prepare a presentation outline based on the capstone analysis.
 
 #### Lesson 23: Final Project Presentation
 - **Objectives:** Present final data analysis projects.
@@ -145,3 +157,10 @@ Program F is organized into six modules spanning 24 lessons. Each lesson combine
 - **Mini-Project:** N/A (Celebration focused).
 
 ---
+
+**Note:**  
+Throughout Program F, real-world datasets from [data.gov.my](https://data.gov.my/) and [data.gov.sg](https://data.gov.sg/) are integrated into lessons on data analysis, visualization, cleaning, and interpretation to give students practical experience with authentic data.
+
+---
+
+This file provides a detailed 24-lesson plan for Program F: Data Analysis and Data Science, now fully incorporating the use of real-world data as requested.
