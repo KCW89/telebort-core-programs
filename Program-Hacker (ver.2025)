@@ -55,33 +55,61 @@ Program Hacker combines theoretical knowledge with intensive hands-on practice t
 - **Take-Home Project:** Map your home network
 - **Visual Output:** Network diagram
 
-### Module 2: Junior CTF Skills (Lessons 7-12)
+### Module 2: Security Fundamentals (Lessons 7-12)
 
-#### Lesson 7-8: Web Secrets
-- **Activities:** Find hidden information in websites
-- **Platform:** Google CTF Web Challenges
-- **Take-Home Project:** Web scavenger hunt
-- **Visual Output:** Discovered secrets collection
+#### Lesson 7-8: Password Cracking and Defense
+- **Objectives:** Understand password security
+- **Activities:** 
+  - Use John the Ripper (educational version)
+  - Create and test password strength
+  - Rainbow table demonstrations
+- **Platform:** Custom password testing environment
+- **Visual Output:** Password strength analyzer tool
+- **Take-Home Project:** Create strong passwords guide
 
-#### Lesson 9-10: Code Detective
-- **Activities:** Basic programming puzzles
-- **Platform:** Code.org's cybersecurity puzzles
-- **Take-Home Project:** Solve coding challenges
-- **Visual Output:** Code breaker badge
+#### Lesson 9-10: Social Engineering Defense
+- **Activities:** 
+  - Phishing email detection games
+  - Social engineering awareness scenarios
+  - Safe social media practices
+- **Platform:** Custom phishing simulation platform
+- **Visual Output:** Phishing detection certificate
+- **Take-Home Project:** Create anti-phishing guide
 
-### Module 3: Security Challenges (Lessons 13-18)
+#### Lesson 11-12: Digital Forensics Basics
+- **Activities:** 
+  - Find hidden files in images (steganography)
+  - Recover deleted files
+  - Analyze metadata
+- **Platform:** Autopsy (basic version)
+- **Visual Output:** Digital detective badge
+- **Take-Home Project:** Solve forensics mystery case
 
-#### Lesson 13-14: Digital Forensics
-- **Activities:** Find hidden files and messages
-- **Platform:** PicoCTF Forensics
-- **Take-Home Project:** Solve mystery cases
-- **Visual Output:** Digital detective certificate
+### Module 3: Advanced Security (Lessons 13-18)
 
-#### Lesson 15-16: Puzzle Master
-- **Activities:** Create security puzzles
-- **Platform:** Custom CTF platform
-- **Take-Home Project:** Design a mini CTF challenge
-- **Visual Output:** Challenge creator badge
+#### Lesson 13-14: Encryption and Decryption
+- **Activities:**
+  - Create simple encryption algorithms
+  - Break basic ciphers
+  - Learn about modern encryption
+- **Platform:** CrypTool
+- **Visual Output:** Encryption expert certificate
+
+#### Lesson 15-16: Network Security
+- **Activities:**
+  - Wireshark packet analysis (safe environment)
+  - Network scanning basics
+  - Firewall configuration
+- **Platform:** GNS3 (educational version)
+- **Visual Output:** Network security map
+
+#### Lesson 17-18: Mobile Security
+- **Activities:**
+  - Mobile app permissions analysis
+  - QR code security
+  - Safe app installation practices
+- **Platform:** Custom mobile security sandbox
+- **Visual Output:** Mobile security guide
 
 ### Module 4: Junior Hacker Projects (Lessons 19-24)
 
@@ -150,3 +178,36 @@ Program Hacker combines theoretical knowledge with intensive hands-on practice t
 3. Problem-solving skills development
 4. Ethical hacking mindset
 5. Hands-on security experience
+
+## Additional Tools and Platforms:
+- **Security Tools:**
+  - Wireshark (educational version)
+  - Steghide
+  - Digital forensics tools
+  - Network analysis tools
+- **Learning Platforms:**
+  - TryHackMe Junior
+  - Hack The Box Junior
+  - OverTheWire Bandit (beginner levels)
+  - Hacker101 CTF
+
+## Hands-on Projects:
+1. **Digital Detective Kit:**
+   - Create personal forensics toolkit
+   - Learn basic investigation techniques
+   - Document analysis tools
+
+2. **Security Lab Setup:**
+   - Build personal security testing environment
+   - Configure basic security tools
+   - Create safe practice space
+
+3. **Network Security Monitor:**
+   - Monitor home network traffic (with parents' permission)
+   - Identify different types of network traffic
+   - Create network security reports
+
+4. **Mobile Security Audit:**
+   - Analyze app permissions
+   - Create security checklist
+   - Develop safe mobile usage guide
