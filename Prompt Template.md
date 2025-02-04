@@ -55,3 +55,124 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 
 **Summary**  
 This program provides a comprehensive, 6-month learning experience, emphasizing interactive teaching, cost-efficiency, and continuous assessment. Teachers receive training and use various platforms (Zoom, Slack, WhatsApp, Colab, Glitch, Scratch) to enhance the learning experience.
+
+
+
+
+===========================
+Prompting Template, step 1
+===========================
+# Curriculum Design Assistant Prompt
+
+I am designing a comprehensive database fundamentals curriculum (Program F2) and need your assistance in creating structured learning content. Please:
+
+1. Review the provided program overview, which includes:
+   - 24 lessons over 6 months
+   - 1-hour weekly sessions
+   - 1:8 teacher-student ratio
+   - Focus on database fundamentals from basics to advanced topics
+
+2. Help me create detailed lesson materials following this format for each lesson:
+   | Program | Lesson & Topic | Objectives | To do (Activity) | Questions to ask (Understanding) |
+   |---------|---------------|------------|------------------|----------------------------------|
+
+3. For each lesson, please:
+   - Break down complex topics into clear learning objectives
+   - Suggest practical hands-on activities
+   - Create assessment questions that test understanding
+   - Maintain progression from basic to advanced concepts
+   - Include both theoretical knowledge and practical skills
+
+4. Ensure all content:
+   - Is appropriate for a 1-hour session
+   - Includes hands-on exercises with SQLite/MongoDB
+   - Features clear learning outcomes
+   - Has measurable assessment criteria
+
+
+
+===========================
+Prompting Template, step 2
+===========================
+Very good, now let's be specific, first, learn about the writing format for our other program. We are going to come out with Lesson & Topic, Objectives, and Questions to ask the students before they leave the classroom (Understanding). 
+
+This is one of the ways we write our learning material.
+
+Lesson & Topic		
+Lesson 1: Introduction to AI	
+
+Objectives: To understand AI
+- To understand the definition of AI and its techniques
+- To learn about the history of AI
+- To explore different AI tools in our daily lives
+- To understand AI ethics, benefits, and limitations"	
+
+Questions to ask the student, before they leave the classroom (Understanding)
+"To understand AI
+- Can you think of any AI techniques and AI benefits?
+- Can you think of any AI tools you know throughout history?
+- Can you tell me why there is a thing such as AI winter?
+- Can you think of any AI tools that is around us today?
+- How do you ensure that AI works that follows ethics and requirements?"
+
+
+===========================
+Prompting Template, step 3    
+===========================   
+# Learning Content Development Prompt
+
+## Context
+I am developing learning materials for Program F2 (Database Fundamentals), a 24-lesson curriculum delivered over 6 months. Each lesson is 1 hour with a 1:8 teacher-student ratio.
+
+## Request
+Please help me create detailed learning content for [Lesson Number: Topic], following our standard format:
+
+1. Lesson & Topic
+   - Should be clear and specific
+   - Include the lesson number and main topic
+   - Example: "Lesson 1: Introduction to AI"
+
+2. Learning Objectives
+   - Start each objective with "To understand..." or "To learn..."
+   - Break down complex topics into 4-6 clear objectives
+   - Ensure objectives are measurable and achievable in one hour
+   - Include both theoretical knowledge and practical skills
+   - Example format:
+     - To understand [concept]
+     - To learn about [topic]
+     - To explore [practical application]
+     - To practice [specific skill]
+
+3. Questions to Ask (Understanding Check)
+   - Create 5-7 thought-provoking questions
+   - Questions should:
+     - Start with "Can you..." or "How would you..."
+     - Test both theoretical understanding and practical application
+     - Follow Bloom's Taxonomy (remember, understand, apply, analyze, evaluate)
+     - Encourage critical thinking and real-world connections
+     - Be answerable based on the lesson content
+
+## Additional Requirements
+- Align with the program's overall learning progression
+- Include industry-relevant examples and scenarios
+- Consider the technical level of beginner database students
+- Ensure content can be covered within a 1-hour session
+
+## Example Format
+Lesson & Topic:
+[Lesson number]: [Clear topic title]
+
+Objectives:
+- To understand [fundamental concept]
+- To learn about [specific aspect]
+- To explore [practical application]
+- To practice [hands-on skill]
+
+Questions to ask (Understanding):
+- Can you explain [basic concept] in your own words?
+- How would you apply [concept] in a real-world scenario?
+- Can you compare and contrast [related concepts]?
+- What would happen if [scenario]?
+- How would you solve [practical problem]?
+
+Please proceed with creating the content for [specific lesson number and topic].
