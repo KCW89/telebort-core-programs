@@ -34,7 +34,7 @@ Program H provides a comprehensive introduction to React Native development, foc
 
 ---
 
-## Detailed Lessons for Program H
+## Detailed Lessons for Program M1
 
 #### Lesson 1: Introduction to React Native
 - **Objectives:** Understand React Native basics, set up environment.
