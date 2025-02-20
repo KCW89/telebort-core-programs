@@ -1,7 +1,7 @@
-# Program D: Advanced JavaScript Foundations and AI Integration
+# Program W2: Advanced JavaScript Foundations and AI Integration
 
 ## Objectives 
-Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
+Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here's what we'll focus on:
 1. Review Prompt Instructions: Analyze and refine the AI-generated prompts for clarity and effectiveness.
 2. Clarify Program Objectives: Deepen our understanding of the learning outcomes and ensure alignment with the curriculum goals.
 3. Develop Comprehensive Materials: Create detailed and well-structured teaching and learning resources to support both students and instructors.
@@ -18,7 +18,7 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 - **Class Size:** One teacher per eight students (1:8 ratio)  
 
 **Program Structure**  
-Program D is organized into six modules spanning 24 lessons. Each lesson integrates live teaching, interactive coding sessions assisted by **Cursor**, collaborative version control using **GitHub Desktop**, and hands-on mini-projects. The curriculum builds on foundational front-end knowledge from Program C, advancing into sophisticated JavaScript concepts, server-side development with Hono, and AI integration.
+Program W2 is organized into six modules spanning 24 lessons. Each lesson integrates live teaching, interactive coding sessions assisted by **Cursor**, collaborative version control using **GitHub Desktop**, and hands-on mini-projects. The curriculum builds on foundational front-end knowledge from Program W1, advancing into sophisticated JavaScript concepts, server-side development with Hono, and AI integration.
 
 ---
 
@@ -185,4 +185,4 @@ Program D is organized into six modules spanning 24 lessons. Each lesson integra
 
 ---
 
-*Note: The above syllabus details each of the 24 lessons for Program D, incorporating the primary use of Cursor and GitHub Desktop for an advanced JavaScript and AI integration course.*
+*Note: The above syllabus details each of the 24 lessons for Program W2, incorporating the primary use of Cursor and GitHub Desktop for an advanced JavaScript and AI integration course.*

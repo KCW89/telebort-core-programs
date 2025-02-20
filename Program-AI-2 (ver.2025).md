@@ -1,4 +1,4 @@
-# Program G2: Application of Generative AI
+# Program AI 2: Application of Generative AI
 
 ## Program Overview
 
@@ -271,4 +271,4 @@ Students will integrate advanced LLM techniques, interactive interface design, a
 **Activity**:
 - Final showcase: Students present their deployed applications (e.g., interactive chatbots, data-driven apps, diffusion-based image generators) followed by a reflective discussion on challenges, successes, and ethical implications
 
-This comprehensive 24-lesson course outline for Program G2 seamlessly combines foundational generative AI principles, creative tool exploration, and advanced real-world deployment skills. It equips students with both theoretical knowledge and practical, hands-on experience, culminating in a capstone project that showcases their ability to build, deploy, and critically assess an interactive AI application.
+This comprehensive 24-lesson course outline for Program AI-2 seamlessly combines foundational generative AI principles, creative tool exploration, and advanced real-world deployment skills. It equips students with both theoretical knowledge and practical, hands-on experience, culminating in a capstone project that showcases their ability to build, deploy, and critically assess an interactive AI application.

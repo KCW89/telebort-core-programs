@@ -1,4 +1,4 @@
-# Program H: React Native 1
+# Program M1: React Native 1
 
 ## Objectives 
 Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
@@ -30,7 +30,7 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
    - As outlined in the general prompt, supporting an engaging and interactive learning experience.
 
 **Summary**  
-Program H provides a comprehensive introduction to React Native development, focusing on Windows-friendly tools like Cursor and GitHub Desktop. It covers fundamental concepts, environment setup, component creation, styling, navigation, state management, API integration, and introductory advanced topics, preparing students for more complex work in the next phase.
+Program M1 provides a comprehensive introduction to React Native development, focusing on Windows-friendly tools like Cursor and GitHub Desktop. It covers fundamental concepts, environment setup, component creation, styling, navigation, state management, API integration, and introductory advanced topics, preparing students for more complex work in the next phase.
 
 ---
 

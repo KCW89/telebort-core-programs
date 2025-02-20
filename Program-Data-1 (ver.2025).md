@@ -1,4 +1,4 @@
-# Program F2: Database Fundamentals
+# Program Data 1: Database Fundamentals
 
 ## Objectives 
 Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
@@ -27,7 +27,7 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
    - Detailed lesson guidelines, presentation slides, activity links, submission links, and sample answers for instructors.
 
 **Summary**  
-Program X provides a comprehensive introduction to databases, covering SQL, NoSQL, database design, optimization, security, and real-world applications, culminating in a capstone project.
+Program Data-1 provides a comprehensive introduction to databases, covering SQL, NoSQL, database design, optimization, security, and real-world applications, culminating in a capstone project.
 
 ---
 
@@ -188,4 +188,4 @@ Program X provides a comprehensive introduction to databases, covering SQL, NoSQ
 
 ---
 
-*This .md file provides a detailed 24-lesson syllabus for Program X: Database Fundamentals, including objectives, activities, and mini-projects for each lesson, along with tools and platforms to be used throughout the course.*
+*This .md file provides a detailed 24-lesson syllabus for Program Data-1: Database Fundamentals, including objectives, activities, and mini-projects for each lesson, along with tools and platforms to be used throughout the course.*

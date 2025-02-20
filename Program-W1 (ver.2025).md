@@ -1,7 +1,7 @@
-# Program C: Front-End Design & User Experience
+# Program W1: Front-End Design & User Experience
 
 ## Objectives 
-Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
+Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here's what we'll focus on:
 1. Review Prompt Instructions: Analyze and refine the AI-generated prompts for clarity and effectiveness.
 2. Clarify Program Objectives: Deepen our understanding of the learning outcomes and ensure alignment with the curriculum goals.
 3. Develop Comprehensive Materials: Create detailed and well-structured teaching and learning resources to support both students and instructors.

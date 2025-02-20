@@ -1,4 +1,4 @@
-# Program I: React Native 2
+# Program M2: React Native 2
 
 ## Objectives 
 Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
@@ -18,14 +18,14 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 - **Class Size:** One teacher per eight students (1:8 ratio)  
 
 **Program Structure**  
-Program I: React Native 2 builds on the foundation established in Program H. It focuses on advanced topics, optimization, testing, deployment, and a capstone project. The curriculum uses tools like Cursor and GitHub Desktop to support advanced learning and collaboration.
+Program M2 builds on the foundation established in Program M1. It focuses on advanced topics, optimization, testing, deployment, and a capstone project. The curriculum uses tools like Cursor and GitHub Desktop to support advanced learning and collaboration.
 
 **Summary**  
 After completing React Native 1, students move into React Native 2, where they deepen their knowledge with advanced state management, performance optimization, security, testing, and comprehensive project development. This prepares them for professional-level development and problem-solving.
 
 ---
 
-## Detailed Lessons for Program I
+## Detailed Lessons for Program M2
 
 #### Lesson 1: Advanced State Management with Redux/Context
 - **Objectives:** Deepen understanding of Redux/Context for complex state.
@@ -70,7 +70,7 @@ After completing React Native 1, students move into React Native 2, where they d
 #### Lesson 9: Native Modules and Platform-Specific Code
 - **Objectives:** Deepen integration with native modules.
 - **Activities:** Build custom native modules.
-- **Mini-Project:** Create a feature using a native module not covered in Program H.
+- **Mini-Project:** Create a feature using a native module not covered in Program M1.
 
 #### Lesson 10: Advanced Data Fetching and Caching Strategies
 - **Objectives:** Optimize API calls and caching.

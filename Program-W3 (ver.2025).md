@@ -1,7 +1,7 @@
-# Program E: Server-Side Development & Authentication
+# Program W3: Server-Side Development & Authentication
 
 ## Objectives 
-Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
+Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here's what we'll focus on:
 1. Review Prompt Instructions: Analyze and refine the AI-generated prompts for clarity and effectiveness.
 2. Clarify Program Objectives: Deepen our understanding of the learning outcomes and ensure alignment with the curriculum goals.
 3. Develop Comprehensive Materials: Create detailed and well-structured teaching and learning resources to support both students and instructors.
@@ -18,7 +18,7 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 - **Class Size:** One teacher per eight students (1:8 ratio)  
 
 **Program Structure**  
-Program E is divided into modules that cover back-end development, Svelte framework, API integration, and Firebase authentication and database integration. Each lesson includes live teaching, interactive coding sessions, and mini-projects to apply the concepts in real-world scenarios. The curriculum emphasizes hands-on development, collaborative projects, and ethical practices.
+Program W3 is divided into modules that cover back-end development, Svelte framework, API integration, and Firebase authentication and database integration. Each lesson includes live teaching, interactive coding sessions, and mini-projects to apply the concepts in real-world scenarios. The curriculum emphasizes hands-on development, collaborative projects, and ethical practices.
 
 ---
 
@@ -244,4 +244,4 @@ Program E is divided into modules that cover back-end development, Svelte framew
 
 ---
 
-*Note: The above syllabus for Program E details all 24 lessons, each with objectives, activities, and associated mini-projects, aligning with the established format used in Programs C and D.*
+*Note: The above syllabus for Program W3 details all 24 lessons, each with objectives, activities, and associated mini-projects, aligning with the established format used in Programs W1 and W2.*

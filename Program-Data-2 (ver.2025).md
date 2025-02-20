@@ -1,4 +1,4 @@
-# Program F: Data Analysis and Data Science
+# Program Data 2: Data Analysis and Data Science
 
 ## Objectives 
 Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
@@ -18,7 +18,7 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 - **Class Size:** One teacher per eight students (1:8 ratio)  
 
 **Program Structure**  
-Program F is organized into six modules spanning 24 lessons. Each lesson combines live teaching, interactive activities using Google Colab, exploration of real-world data from [data.gov.my](https://data.gov.my/) and [data.gov.sg](https://data.gov.sg/), and mini-project development. The program emphasizes hands-on learning with authentic datasets, AI-assisted guidance, and ethical data interpretation.
+Program Data-2 is organized into six modules spanning 24 lessons. Each lesson combines live teaching, interactive activities using Google Colab, exploration of real-world data from [data.gov.my](https://data.gov.my/) and [data.gov.sg](https://data.gov.sg/), and mini-project development. The program emphasizes hands-on learning with authentic datasets, AI-assisted guidance, and ethical data interpretation.
 
 ---
 
@@ -159,8 +159,8 @@ Program F is organized into six modules spanning 24 lessons. Each lesson combine
 ---
 
 **Note:**  
-Throughout Program F, real-world datasets from [data.gov.my](https://data.gov.my/) and [data.gov.sg](https://data.gov.sg/) are integrated into lessons on data analysis, visualization, cleaning, and interpretation to give students practical experience with authentic data.
+Throughout Program Data-2, real-world datasets from [data.gov.my](https://data.gov.my/) and [data.gov.sg](https://data.gov.sg/) are integrated into lessons on data analysis, visualization, cleaning, and interpretation to give students practical experience with authentic data.
 
 ---
 
-This file provides a detailed 24-lesson plan for Program F: Data Analysis and Data Science, now fully incorporating the use of real-world data as requested.
+This file provides a detailed 24-lesson plan for Program Data-2: Data Analysis and Data Science, now fully incorporating the use of real-world data as requested.

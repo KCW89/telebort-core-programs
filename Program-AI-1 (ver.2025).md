@@ -1,4 +1,4 @@
-# Program G: Artificial Intelligence
+# Program AI 1: Artificial Intelligence, Machine Learning, & Computer Vision
 
 ## Objectives 
 Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
@@ -18,7 +18,7 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 - **Class Size:** One teacher per eight students (1:8 ratio)  
 
 **Program Structure**  
-Program G is organized into structured modules over 24 lessons. Each lesson integrates theory, interactive Google Colab exercises, real-world data application, and project-based learning. The curriculum emphasizes advanced AI concepts, ethical considerations, and hands-on model development, with frequent integration of datasets from data.gov.my and data.gov.sg.
+Program AI-1 is organized into structured modules over 24 lessons. Each lesson integrates theory, interactive Google Colab exercises, real-world data application, and project-based learning. The curriculum emphasizes advanced AI concepts, ethical considerations, and hands-on model development, with frequent integration of datasets from data.gov.my and data.gov.sg.
 
 ---
 
@@ -146,7 +146,7 @@ Program G is organized into structured modules over 24 lessons. Each lesson inte
 
 ---
 
-## Enhancements and Engagement Strategies in Program G
+## Enhancements and Engagement Strategies in Program AI-1
 - **Real-World Data Integration:** Frequent use of datasets from data.gov.my and data.gov.sg in AI model training and evaluation.
 - **Interactive Notebooks:** Google Colab for hands-on experiments, model building, and visualization.
 - **AI-Assisted Support:** Real-time debugging and feedback integrated into Colab sessions.
