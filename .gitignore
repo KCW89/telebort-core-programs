@@ -1,5 +1,8 @@
-#Prompt
+#hide
 .env.prompt-1
 .env.prompt-2
 .env.prompt-3
+.hack-beta.md
+.gitignore
+
 
