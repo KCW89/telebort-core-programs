@@ -1,4 +1,4 @@
-ss# Weekly Core Programs Overview
+# Weekly Core Programs Overview
 
 Our Weekly Core Programs deliver a comprehensive, hands-on learning experience in Computer Science and Software Engineering, with a strong emphasis on Artificial Intelligence integration. Over the course of six months, students progress from foundational principles to real-world, specialized applications.
 
