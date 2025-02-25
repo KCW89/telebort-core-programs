@@ -1,5 +1,6 @@
 # Program W1: Front-End Design & User Experience
-## 1. Background & Program Overview
+
+## Background & Program Overview
 
 **Program Overview**  
 - **Total Lessons:** 24  
