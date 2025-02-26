@@ -1,14 +1,6 @@
-# Program M1: React Native 1
+# Program M1: React Native Development - Fundamentals
 
-## Objectives 
-Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
-	1. Review Prompt Instructions: Analyze and refine the AI-generated prompts for clarity and effectiveness.
-	2. Clarify Program Objectives: Deepen our understanding of the learning outcomes and ensure alignment with the curriculum goals.
-	3. Develop Comprehensive Materials: Create detailed and well-structured teaching and learning resources to support both students and instructors.
-
----
-
-## 1. Background & Program Overview
+## Background & Program Overview
 
 **Program Overview**  
 - **Total Lessons:** 24  
@@ -19,15 +11,15 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 
 **Program Structure**  
 1. **Quick View of Program Modules**  
-   - **Lessons and Topics:** Each lesson covers specific foundational and intermediate React Native topics.
-   - **Objectives and Goals:** Clearly defined objectives for each lesson (provided in slides).
-   - **Class Activities:** Worksheets, exercises, pop quizzes, exit tickets, and hands-on projects.
+   - **Module 1: Environment Setup & JavaScript Foundations** (Lessons 1-4)
+   - **Module 2: React Native Core Concepts** (Lessons 5-8)
+   - **Module 3: Navigation & State Management** (Lessons 9-12)
+   - **Module 4: API Integration & Data Handling** (Lessons 13-16)
+   - **Module 5: Advanced Features & Deployment** (Lessons 17-20)
+   - **Module 6: Capstone Project** (Lessons 21-24)
 
 2. **Learning and Teaching Materials**  
    - Detailed lesson guidelines, slides, activity links, submission links, and sample answers for teachers.
-
-3. **Student and Activity Management, Assessment, Teacher Support, etc.**  
-   - As outlined in the general prompt, supporting an engaging and interactive learning experience.
 
 **Summary**  
 Program M1 provides a comprehensive introduction to React Native development, focusing on Windows-friendly tools like Cursor and GitHub Desktop. It covers fundamental concepts, environment setup, component creation, styling, navigation, state management, API integration, and introductory advanced topics, preparing students for more complex work in the next phase.
@@ -36,65 +28,219 @@ Program M1 provides a comprehensive introduction to React Native development, fo
 
 ## Detailed Lessons for Program M1
 
-#### Lesson 1: Introduction to React Native
-- **Objectives:** Understand React Native basics, set up environment.
-- **Activities:** Install Node.js, React Native CLI, Expo; run "Hello World" on Android emulator.
-- **Mini-Project:** Create a simple "Hello World" React Native app.
+### Lesson 1: Introduction to React Native
+1. **Lesson & Topic**  
+   - **Title:** "Mobile App Magic: Introduction to React Native"  
+   - **Connection:** Discover the power of React Native for building cross-platform mobile applications.
+2. **Learning Objectives**  
+   - To understand what React Native is and how it differs from other mobile development frameworks.  
+   - To set up the development environment necessary for React Native development.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live demonstration of React Native capabilities and guided environment setup.  
+   - **Fun Exercise (15–20 mins):** In groups, explore popular mobile apps built with React Native and discuss their features.  
+   - **Quick Win (10–15 mins):** Successfully set up and run a "Hello World" React Native app.
+4. **Understanding Check Questions**  
+   - What makes React Native different from native app development?  
+   - Which tools did you install for your development environment?  
+   - What challenges did you face during setup, and how did you overcome them?
 
-#### Lesson 2: JavaScript/TypeScript Refresher for React Native
-- **Objectives:** Refresh JavaScript/TypeScript fundamentals.
-- **Activities:** Live coding, exercises on ES6 features and TypeScript basics.
-- **Mini-Project:** Write a TypeScript function to process user input.
+---
 
-#### Lesson 3: Setting Up a React Native Project
-- **Objectives:** Understand project structure and configuration.
-- **Activities:** Initialize a new React Native project, explore directories.
-- **Mini-Project:** Set up a new project and customize app name and icon.
+### Lesson 2: JavaScript/TypeScript Refresher for React Native
+1. **Lesson & Topic**  
+   - **Title:** "Code Foundations: JavaScript/TypeScript for React Native"  
+   - **Connection:** Reinforce essential programming concepts that power React Native applications.
+2. **Learning Objectives**  
+   - To refresh JavaScript fundamentals crucial for React Native development.  
+   - To understand TypeScript basics and how they enhance code quality.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live coding session demonstrating key JavaScript/TypeScript features used in React Native.  
+   - **Fun Exercise (15–20 mins):** In pairs, practice writing and converting JavaScript functions to TypeScript.  
+   - **Quick Win (10–15 mins):** Implement a simple TypeScript function that processes user input.
+4. **Understanding Check Questions**  
+   - How do arrow functions differ from traditional functions?  
+   - What benefits does TypeScript provide over plain JavaScript?  
+   - Which ES6+ features do you find most useful for React Native development?
 
-#### Lesson 4: Components and JSX Basics
-- **Objectives:** Learn React components, JSX, and props.
-- **Activities:** Create and render simple components, modify props.
-- **Mini-Project:** Build a reusable UI component like a button or card.
+---
 
-#### Lesson 5: Styling in React Native
-- **Objectives:** Understand styling with StyleSheet and flexbox.
-- **Activities:** Apply styles, design responsive layouts.
-- **Mini-Project:** Create a styled user profile screen.
+### Lesson 3: Setting Up a React Native Project
+1. **Lesson & Topic**  
+   - **Title:** "Project Blueprint: Structuring Your React Native App"  
+   - **Connection:** Learn how to create and organize a professional React Native project.
+2. **Learning Objectives**  
+   - To understand the structure of a React Native project.  
+   - To learn how to customize project configuration for different requirements.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Guided setup of a new React Native project with proper folder structure.  
+   - **Fun Exercise (15–20 mins):** In groups, explore and discuss different project organization approaches.  
+   - **Quick Win (10–15 mins):** Successfully customize the app's name, icon, and splash screen.
+4. **Understanding Check Questions**  
+   - What are the key directories in a React Native project?  
+   - How would you modify the app's display name and bundle identifier?  
+   - Why is proper project organization important for larger applications?
 
-#### Lesson 6: Navigation in React Native
-- **Objectives:** Implement navigation using React Navigation.
-- **Activities:** Set up stack/tab navigators, create multiple screens.
-- **Mini-Project:** Build a multi-screen app with stack navigation.
+---
 
-#### Lesson 7: Managing State in React Native
-- **Objectives:** Learn useState and useContext hooks.
-- **Activities:** Practice state management across components.
-- **Mini-Project:** Develop a to-do list app with stateful components.
+### Lesson 4: Components and JSX Basics
+1. **Lesson & Topic**  
+   - **Title:** "Building Blocks: Components and JSX in React Native"  
+   - **Connection:** Master the fundamental building blocks of React Native user interfaces.
+2. **Learning Objectives**  
+   - To understand React component architecture and lifecycle.  
+   - To learn JSX syntax and how to use it to create UI elements.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live demonstration of creating functional and class components with JSX.  
+   - **Fun Exercise (15–20 mins):** In pairs, design and implement a custom component that accepts props.  
+   - **Quick Win (10–15 mins):** Build a reusable button component with customizable styling.
+4. **Understanding Check Questions**  
+   - What is the difference between functional and class components?  
+   - How do props allow for component reusability?  
+   - What JSX syntax rules did you find most important to remember?
 
-#### Lesson 8: Data Fetching and API Integration
-- **Objectives:** Fetch and display data from APIs.
-- **Activities:** Use fetch/axios in React Native, handle responses.
-- **Mini-Project:** Create a screen that fetches and displays weather/news data.
+---
 
-#### Lesson 9: Lists and FlatList Component
-- **Objectives:** Display data lists efficiently.
-- **Activities:** Use FlatList, implement pull-to-refresh.
-- **Mini-Project:** Build a list view of items fetched from an API.
+### Lesson 5: Styling in React Native
+1. **Lesson & Topic**  
+   - **Title:** "Beautiful Interfaces: Mastering React Native Styling"  
+   - **Connection:** Learn how to create visually appealing mobile interfaces using React Native's styling system.
+2. **Learning Objectives**  
+   - To understand React Native's StyleSheet API and inline styling.  
+   - To master flexbox layout and responsive design principles.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live demonstration of different styling approaches and flexbox layouts.  
+   - **Fun Exercise (15–20 mins):** In groups, recreate a portion of a popular app's interface using flexbox.  
+   - **Quick Win (10–15 mins):** Create a styled user profile screen with proper alignment and spacing.
+4. **Understanding Check Questions**  
+   - How does styling in React Native differ from web CSS?  
+   - What are the key flexbox properties for creating responsive layouts?  
+   - Which styling approach (inline or StyleSheet) do you prefer and why?
 
-#### Lesson 10: Forms and User Input
-- **Objectives:** Build forms, manage user input and validation.
-- **Activities:** Create forms, validate inputs in React Native.
-- **Mini-Project:** Develop a registration form capturing and validating user data.
+---
 
-#### Lesson 11: Animations and Transitions
-- **Objectives:** Introduce basic animations with the Animated API.
-- **Activities:** Create fade, slide animations.
-- **Mini-Project:** Add animations to enhance UI elements.
+### Lesson 6: Navigation in React Native
+1. **Lesson & Topic**  
+   - **Title:** "App Journeys: Navigation in React Native"  
+   - **Connection:** Implement intuitive navigation systems that allow users to move between screens.
+2. **Learning Objectives**  
+   - To understand navigation concepts in mobile applications.  
+   - To implement stack and tab navigation using React Navigation.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live implementation of a multi-screen app with various navigation patterns.  
+   - **Fun Exercise (15–20 mins):** In pairs, design and implement a custom navigation flow with transitions.  
+   - **Quick Win (10–15 mins):** Successfully set up a bottom tab navigator with icons and labels.
+4. **Understanding Check Questions**  
+   - What are the different types of navigators in React Navigation?  
+   - How do you pass parameters between screens?  
+   - How would you customize transition animations between screens?
 
-#### Lesson 12: Local Storage and Persistence
-- **Objectives:** Use AsyncStorage for data persistence.
-- **Activities:** Save and retrieve data locally.
-- **Mini-Project:** Implement local saving for a to-do list or user preferences.
+---
+
+### Lesson 7: Managing State in React Native
+1. **Lesson & Topic**  
+   - **Title:** "Data Flow: State Management in React Native"  
+   - **Connection:** Learn how to manage and update application data efficiently.
+2. **Learning Objectives**  
+   - To understand React's state management using hooks.  
+   - To implement context for sharing state across components.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live demonstration of useState, useEffect, and useContext hooks.  
+   - **Fun Exercise (15–20 mins):** In groups, build a theme switcher using context API.  
+   - **Quick Win (10–15 mins):** Develop a to-do list app with state management for adding and removing items.
+4. **Understanding Check Questions**  
+   - What is the difference between props and state?  
+   - When would you use Context API instead of prop drilling?  
+   - How do lifecycle methods relate to hooks in functional components?
+
+---
+
+### Lesson 8: Data Fetching and API Integration
+1. **Lesson & Topic**  
+   - **Title:** "Connect Your App: API Integration in React Native"  
+   - **Connection:** Learn how to fetch and display data from external sources.
+2. **Learning Objectives**  
+   - To understand RESTful API concepts and data fetching in React Native.  
+   - To implement error handling and loading states for network requests.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live implementation of API fetching using fetch and axios.  
+   - **Fun Exercise (15–20 mins):** In pairs, integrate a public API into a simple display component.  
+   - **Quick Win (10–15 mins):** Create a screen that fetches and displays weather or news data.
+4. **Understanding Check Questions**  
+   - What are the differences between fetch and axios?  
+   - How do you handle network errors in API requests?  
+   - How would you implement a loading spinner while waiting for data?
+
+---
+
+### Lesson 9: Lists and FlatList Component
+1. **Lesson & Topic**  
+   - **Title:** "Data Display: Mastering Lists in React Native"  
+   - **Connection:** Learn efficient techniques for displaying and managing data lists.
+2. **Learning Objectives**  
+   - To understand the performance benefits of FlatList over ScrollView.  
+   - To implement optimized list rendering with various features.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live demonstration of FlatList implementation with optimization techniques.  
+   - **Fun Exercise (15–20 mins):** In groups, create a custom list with pull-to-refresh and infinite scrolling.  
+   - **Quick Win (10–15 mins):** Build a list view of items fetched from an API with proper key handling.
+4. **Understanding Check Questions**  
+   - Why is FlatList more efficient than mapping items in a ScrollView?  
+   - How do you implement section headers in a SectionList?  
+   - What strategies help optimize list performance with large datasets?
+
+---
+
+### Lesson 10: Forms and User Input
+1. **Lesson & Topic**  
+   - **Title:** "User Interaction: Forms and Input Handling"  
+   - **Connection:** Create intuitive forms and properly manage user input.
+2. **Learning Objectives**  
+   - To implement form elements with proper keyboard handling.  
+   - To validate user input and provide feedback.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live implementation of a multi-field form with validation.  
+   - **Fun Exercise (15–20 mins):** In pairs, create a registration form with real-time validation feedback.  
+   - **Quick Win (10–15 mins):** Implement a form field that masks input for password entry.
+4. **Understanding Check Questions**  
+   - How do you handle keyboard appearance and dismissal?  
+   - What strategies can you use for form validation?  
+   - How would you create a custom form component for reusability?
+
+---
+
+### Lesson 11: Animations and Transitions
+1. **Lesson & Topic**  
+   - **Title:** "Bring Apps to Life: Animations in React Native"  
+   - **Connection:** Add fluid animations and transitions to enhance user experience.
+2. **Learning Objectives**  
+   - To understand the Animated API in React Native.  
+   - To implement various animation types for UI elements.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live demonstration of fade, slide, and spring animations.  
+   - **Fun Exercise (15–20 mins):** In groups, create a custom animation sequence for a loading indicator.  
+   - **Quick Win (10–15 mins):** Implement a button that animates when pressed.
+4. **Understanding Check Questions**  
+   - What is the difference between Animated and LayoutAnimation?  
+   - How do you create interpolated animations?  
+   - Which animation type works best for natural-feeling UI interactions?
+
+---
+
+### Lesson 12: Local Storage and Persistence
+1. **Lesson & Topic**  
+   - **Title:** "Remember Me: Data Persistence in React Native"  
+   - **Connection:** Learn how to store and retrieve data locally on the device.
+2. **Learning Objectives**  
+   - To understand different storage options in React Native.  
+   - To implement AsyncStorage for data persistence.
+3. **Activities (Project-Based)**  
+   - **Main Project Work (15–20 mins):** Live implementation of data storage and retrieval using AsyncStorage.  
+   - **Fun Exercise (15–20 mins):** In pairs, create a settings screen that persists user preferences.  
+   - **Quick Win (10–15 mins):** Implement a feature that remembers the user's last viewed screen.
+4. **Understanding Check Questions**  
+   - What are the limitations of AsyncStorage?  
+   - How would you store complex objects in local storage?  
+   - What alternatives exist for more secure or structured storage?
 
 #### Lesson 13: Advanced State Management with Context or Redux
 - **Objectives:** Explore Context API or Redux for global state.

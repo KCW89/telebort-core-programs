@@ -1,14 +1,6 @@
 # Program Data 1: Database Fundamentals
 
-## Objectives 
-Our goal is to enhance our curriculum by leveraging AI to create more effective and engaging content. Here’s what we’ll focus on:
-1. **Review Prompt Instructions:** Analyze and refine the AI-generated prompts for clarity and effectiveness.
-2. **Clarify Program Objectives:** Deepen our understanding of the learning outcomes and ensure alignment with the curriculum goals.
-3. **Develop Comprehensive Materials:** Create detailed and well-structured teaching and learning resources to support both students and instructors.
-
----
-
-## 1. Background & Program Overview
+## Background & Program Overview
 
 **Program Overview**  
 - **Total Lessons:** 24  
@@ -18,22 +10,22 @@ Our goal is to enhance our curriculum by leveraging AI to create more effective 
 - **Class Size:** One teacher per eight students (1:8 ratio)  
 
 **Program Structure**  
-1. **Quick View of Program Modules:**  
-   - **Lessons and Topics:** Each lesson covers specific database-related topics, from SQL basics to advanced real-world applications.  
-   - **Objectives and Goals:** Clearly defined learning objectives for each lesson, provided in slides and supporting materials.  
-   - **Class Activities:** Worksheets, interactive exercises, quizzes, and hands-on mini-projects.  
-2. **Learning and Teaching Materials:**  
-   - Detailed lesson guidelines, presentation slides, activity links, submission portals, and sample answers for instructors.
+1. **Module 1: Introduction to Databases and SQL Basics** (Lessons 1-4)  
+2. **Module 2: Advanced SQL and Data Manipulation** (Lessons 5-8)  
+3. **Module 3: Database Design and Normalization** (Lessons 9-12)  
+4. **Module 4: Database Management and Security** (Lessons 13-16)  
+5. **Module 5: NoSQL Databases** (Lessons 17-20)  
+6. **Module 6: Capstone Project** (Lessons 21-24)  
 
 **Summary**  
 Program Data 1 provides a comprehensive introduction to databases. Topics include SQL, NoSQL, database design, optimization, security, and real-world applications—culminating in a capstone project that challenges students to design, build, and present a complete database solution.
 
 ---
 
-*Below is the detailed 24-lesson course outline for Program Data 1: Database Fundamentals. Each lesson follows a consistent structure with four main sections:*
+*Each lesson follows a consistent structure with four main sections:*
 
 1. **Lesson & Topic:** A clear, youth-friendly title with a connection to the overall project theme.  
-2. **Learning Objectives:** Bullets starting with “To understand…” or “To learn…”, highlighting both fun and technical aspects.  
+2. **Learning Objectives:** Bullets starting with "To understand…" or "To learn…", highlighting both fun and technical aspects.  
 3. **Activities (Project-Based):**  
    - **Main Project Work (15–20 mins):** Hands-on activities, live demos, or guided exercises.  
    - **Fun Exercise (15–20 mins):** Interactive group tasks, brainstorming sessions, or games.  
@@ -46,7 +38,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 1: What is a Database?
 1. **Lesson & Topic**  
-   - **Title:** “Database 101: What is a Database?”  
+   - **Title:** "Database 101: What is a Database?"  
    - **Connection:** Begin your journey into the world of data by understanding what databases are, their history, and the different types available.
 2. **Learning Objectives**  
    - To understand basic database concepts and terminology.  
@@ -65,7 +57,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 2: Introduction to SQL
 1. **Lesson & Topic**  
-   - **Title:** “SQL Basics: Speak the Language of Data”  
+   - **Title:** "SQL Basics: Speak the Language of Data"  
    - **Connection:** Learn the essential SQL commands that allow you to interact with a database.
 2. **Learning Objectives**  
    - To understand the basic SQL commands: SELECT, INSERT, UPDATE, DELETE.  
@@ -84,7 +76,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 3: Querying Data with SELECT
 1. **Lesson & Topic**  
-   - **Title:** “Data Detective: Mastering the SELECT Statement”  
+   - **Title:** "Data Detective: Mastering the SELECT Statement"  
    - **Connection:** Learn how to extract specific information from a database using the SELECT statement.
 2. **Learning Objectives**  
    - To understand how to write SELECT queries for filtering and sorting data.  
@@ -103,7 +95,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 4: Joins and Relationships
 1. **Lesson & Topic**  
-   - **Title:** “Connecting the Dots: Understanding Joins”  
+   - **Title:** "Connecting the Dots: Understanding Joins"  
    - **Connection:** Discover how to combine data from multiple tables using various types of JOIN operations.
 2. **Learning Objectives**  
    - To understand table relationships and the concept of joins (INNER, LEFT, RIGHT, FULL).  
@@ -124,7 +116,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 5: Aggregations and Grouping
 1. **Lesson & Topic**  
-   - **Title:** “Crunching Numbers: Aggregations and Grouping in SQL”  
+   - **Title:** "Crunching Numbers: Aggregations and Grouping in SQL"  
    - **Connection:** Learn how to use aggregate functions to analyze and summarize data.
 2. **Learning Objectives**  
    - To understand how aggregate functions (SUM, COUNT, AVG, etc.) work in SQL.  
@@ -143,7 +135,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 6: Subqueries and Nested Queries
 1. **Lesson & Topic**  
-   - **Title:** “Deep Dive: Mastering Subqueries in SQL”  
+   - **Title:** "Deep Dive: Mastering Subqueries in SQL"  
    - **Connection:** Enhance your query skills by learning how to use subqueries to solve complex problems.
 2. **Learning Objectives**  
    - To understand how to write subqueries and nested queries.  
@@ -162,7 +154,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 7: Data Definition and Constraints
 1. **Lesson & Topic**  
-   - **Title:** “Designing Data: Schema Definition and Constraints”  
+   - **Title:** "Designing Data: Schema Definition and Constraints"  
    - **Connection:** Learn how to design a robust database schema by applying constraints and ensuring data integrity.
 2. **Learning Objectives**  
    - To understand how to define tables and enforce data integrity with primary and foreign keys.  
@@ -181,7 +173,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 8: Indexing and Query Optimization
 1. **Lesson & Topic**  
-   - **Title:** “Speed Up: Optimize Your SQL Queries with Indexing”  
+   - **Title:** "Speed Up: Optimize Your SQL Queries with Indexing"  
    - **Connection:** Discover how to improve the performance of your database queries by using indexes.
 2. **Learning Objectives**  
    - To understand what indexes are and how they improve query performance.  
@@ -202,7 +194,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 9: Data Modeling and ER Diagrams
 1. **Lesson & Topic**  
-   - **Title:** “Blueprints of Data: Creating ER Diagrams”  
+   - **Title:** "Blueprints of Data: Creating ER Diagrams"  
    - **Connection:** Visualize your database design by creating Entity-Relationship (ER) diagrams to map out data relationships.
 2. **Learning Objectives**  
    - To understand the basics of data modeling and the purpose of ER diagrams.  
@@ -221,7 +213,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 10: Normalization Concepts
 1. **Lesson & Topic**  
-   - **Title:** “Normalize It: Making Data Organized and Efficient”  
+   - **Title:** "Normalize It: Making Data Organized and Efficient"  
    - **Connection:** Learn how normalization processes eliminate redundancy and ensure data integrity in your databases.
 2. **Learning Objectives**  
    - To understand the principles of normalization (1NF, 2NF, 3NF, BCNF).  
@@ -240,7 +232,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 11: Advanced Schema Design
 1. **Lesson & Topic**  
-   - **Title:** “Design Mastery: Advanced Schema and Denormalization”  
+   - **Title:** "Design Mastery: Advanced Schema and Denormalization"  
    - **Connection:** Explore advanced database design techniques, including denormalization trade-offs to improve performance.
 2. **Learning Objectives**  
    - To understand complex schema design and the scenarios that require denormalization.  
@@ -259,7 +251,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 12: Transactions and Concurrency
 1. **Lesson & Topic**  
-   - **Title:** “Safe Transactions: Managing Concurrency in Databases”  
+   - **Title:** "Safe Transactions: Managing Concurrency in Databases"  
    - **Connection:** Learn how transactions ensure data integrity and how to handle concurrent operations safely.
 2. **Learning Objectives**  
    - To understand ACID properties and their importance in transaction management.  
@@ -280,7 +272,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 13: Introduction to NoSQL
 1. **Lesson & Topic**  
-   - **Title:** “NoSQL Unleashed: Exploring New Data Models”  
+   - **Title:** "NoSQL Unleashed: Exploring New Data Models"  
    - **Connection:** Discover the world of NoSQL databases and how they differ from traditional relational systems.
 2. **Learning Objectives**  
    - To understand the various types of NoSQL databases: document, key-value, graph, and columnar.  
@@ -299,7 +291,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 14: Working with MongoDB
 1. **Lesson & Topic**  
-   - **Title:** “MongoDB Mastery: CRUD in a NoSQL World”  
+   - **Title:** "MongoDB Mastery: CRUD in a NoSQL World"  
    - **Connection:** Dive into MongoDB to learn how to perform CRUD operations on JSON-like documents.
 2. **Learning Objectives**  
    - To understand how to perform basic CRUD operations in MongoDB.  
@@ -318,7 +310,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 15: Data Integration and ETL
 1. **Lesson & Topic**  
-   - **Title:** “ETL Essentials: Extract, Transform, Load”  
+   - **Title:** "ETL Essentials: Extract, Transform, Load"  
    - **Connection:** Learn how to integrate data from various sources using ETL processes.
 2. **Learning Objectives**  
    - To understand the ETL process and its role in data integration.  
@@ -337,7 +329,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 16: Indexing and Performance in NoSQL
 1. **Lesson & Topic**  
-   - **Title:** “NoSQL Speed: Optimize with Indexing”  
+   - **Title:** "NoSQL Speed: Optimize with Indexing"  
    - **Connection:** Learn how to enhance the performance of your NoSQL database by applying effective indexing strategies.
 2. **Learning Objectives**  
    - To understand how indexes work in NoSQL databases like MongoDB.  
@@ -358,7 +350,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 17: Security in Databases
 1. **Lesson & Topic**  
-   - **Title:** “Data Defenders: Securing Your Database”  
+   - **Title:** "Data Defenders: Securing Your Database"  
    - **Connection:** Learn about essential security measures to protect your databases from unauthorized access and breaches.
 2. **Learning Objectives**  
    - To understand common security vulnerabilities in databases.  
@@ -377,7 +369,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 18: Backup, Recovery, and Maintenance
 1. **Lesson & Topic**  
-   - **Title:** “Stay Safe: Backup, Recovery, and Maintenance”  
+   - **Title:** "Stay Safe: Backup, Recovery, and Maintenance"  
    - **Connection:** Learn how to ensure data durability and recoverability through proper backup and maintenance strategies.
 2. **Learning Objectives**  
    - To understand different backup and recovery strategies for databases.  
@@ -396,7 +388,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 19: Cloud Databases and Scalability
 1. **Lesson & Topic**  
-   - **Title:** “Cloud Power: Scale Your Database in the Cloud”  
+   - **Title:** "Cloud Power: Scale Your Database in the Cloud"  
    - **Connection:** Explore cloud-based database services and learn how to scale and replicate databases for high availability.
 2. **Learning Objectives**  
    - To understand the fundamentals of cloud database services (e.g., AWS RDS, MongoDB Atlas).  
@@ -415,7 +407,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 20: Data Warehousing and Big Data Basics
 1. **Lesson & Topic**  
-   - **Title:** “Big Picture: Data Warehousing and Big Data”  
+   - **Title:** "Big Picture: Data Warehousing and Big Data"  
    - **Connection:** Get introduced to data warehousing concepts and the basics of big data frameworks to support analytical applications.
 2. **Learning Objectives**  
    - To understand the concept and purpose of data warehousing in large-scale data analysis.  
@@ -436,8 +428,8 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 21: Capstone Project Setup
 1. **Lesson & Topic**  
-   - **Title:** “Project Kickoff: Plan Your Database Masterpiece”  
-   - **Connection:** Begin planning your comprehensive capstone project that integrates everything you’ve learned about databases.
+   - **Title:** "Project Kickoff: Plan Your Database Masterpiece"  
+   - **Connection:** Begin planning your comprehensive capstone project that integrates everything you've learned about databases.
 2. **Learning Objectives**  
    - To understand how to brainstorm and plan a full-scale database project.  
    - To learn how to outline project tasks, design a schema, and define analysis goals.  
@@ -455,7 +447,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 22: Capstone Project Development
 1. **Lesson & Topic**  
-   - **Title:** “Build It Out: Develop Your Capstone Database”  
+   - **Title:** "Build It Out: Develop Your Capstone Database"  
    - **Connection:** Start building your proposed database project by designing the core schema and importing initial data.
 2. **Learning Objectives**  
    - To understand how to translate your project plan into a working database schema.  
@@ -474,7 +466,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 23: Capstone Project Finalization
 1. **Lesson & Topic**  
-   - **Title:** “Final Touches: Optimize and Secure Your Project”  
+   - **Title:** "Final Touches: Optimize and Secure Your Project"  
    - **Connection:** Refine your capstone project by optimizing queries, adding security measures, and completing documentation.
 2. **Learning Objectives**  
    - To understand the importance of optimization and security in a real-world database project.  
@@ -482,7 +474,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
    - *Note:* This lesson polishes your project for final evaluation.
 3. **Activities (Project-Based)**  
    - **Main Project Work (15–20 mins):** Conduct a live review session to optimize queries and implement security best practices.  
-   - **Fun Exercise (15–20 mins):** In groups, review each other’s projects and provide suggestions for final tweaks.  
+   - **Fun Exercise (15–20 mins):** In groups, review each other's projects and provide suggestions for final tweaks.  
    - **Quick Win (10–15 mins):** Make one key improvement to your project and document the change.
 4. **Understanding Check Questions**  
    - What optimization or security feature did you add to your project?  
@@ -493,7 +485,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
 
 ### Lesson 24: Presentation and Review
 1. **Lesson & Topic**  
-   - **Title:** “Showcase & Reflect: Present Your Capstone Project”  
+   - **Title:** "Showcase & Reflect: Present Your Capstone Project"  
    - **Connection:** Conclude your capstone project by presenting your work and reflecting on your learning journey.
 2. **Learning Objectives**  
    - To understand how to effectively present a comprehensive database project.  
@@ -501,7 +493,7 @@ Program Data 1 provides a comprehensive introduction to databases. Topics includ
    - *Note:* This final lesson celebrates your achievements and sets the stage for future learning.
 3. **Activities (Project-Based)**  
    - **Main Project Work (15–20 mins):** Deliver a live presentation of your capstone project, explaining your design, challenges, and innovations.  
-   - **Fun Exercise (15–20 mins):** Participate in a peer review session and share “wow moments” from your project journey.  
+   - **Fun Exercise (15–20 mins):** Participate in a peer review session and share "wow moments" from your project journey.  
    - **Quick Win (10–15 mins):** Write down one key takeaway from your capstone experience and share it in a quick roundtable discussion.
 4. **Understanding Check Questions**  
    - What was the most challenging part of your capstone project, and how did you overcome it?  
